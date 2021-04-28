@@ -11,5 +11,5 @@ ActionScript 2).
 ## Installation
 
 ```sh
-> go get -u -v github.com/kralamoure/d1util
+go get -u -v github.com/kralamoure/d1util
 ```
