@@ -1,3 +1,4 @@
+// Package d1util is a library of low-level utilities for Dofus 1, reverse engineered from its client (originally written in ActionScript 2).
 package d1util
 
 func BuiltCells(cellNum *int, buildAll bool, gameMapWidth int, cells []Cell) []Cell {
