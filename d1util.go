@@ -1,5 +1,5 @@
-// Package d1util is a library of low-level utilities for Dofus 1, reverse engineered from its client (originally written in ActionScript 2).
-package d1util
+// Package retroutil is a library of low-level utilities for Dofus 1, reverse engineered from its client (originally written in ActionScript 2).
+package retroutil
 
 import (
 	"net/url"

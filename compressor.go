@@ -1,4 +1,4 @@
-package d1util
+package retroutil
 
 var zipKey = []string{"_a", "_b", "_c", "_d", "_e", "_f", "_g", "_h", "_i", "_j", "_k", "_l", "_m", "_n", "_o", "_p",
 	"_q", "_r", "_s", "_t", "_u", "_v", "_w", "_x", "_y", "_z", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K",

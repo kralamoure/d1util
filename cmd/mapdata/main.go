@@ -7,7 +7,7 @@ import (
 
 	"github.com/spf13/pflag"
 
-	"github.com/kralamoure/d1util"
+	"github.com/kralamoure/retroutil"
 )
 
 var (
@@ -28,7 +28,7 @@ func main() {
 }
 
 func run() error {
-	result, err := d1util.DecipherGameMap(data, key)
+	result, err := retroutil.DecipherGameMap(data, key)
 	if err != nil {
 		return err
 	}

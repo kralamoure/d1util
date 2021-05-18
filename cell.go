@@ -1,4 +1,4 @@
-package d1util
+package retroutil
 
 type Cell struct {
 	Id                             int

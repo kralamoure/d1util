@@ -1,4 +1,4 @@
-package d1util
+package retroutil
 
 func BuiltCells(cellNum *int, buildAll bool, gameMapWidth int, cells []Cell) []Cell {
 	out := make([]Cell, len(cells))

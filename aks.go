@@ -1,4 +1,4 @@
-package d1util
+package retroutil
 
 import (
 	"encoding/hex"

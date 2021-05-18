@@ -1,4 +1,4 @@
-module github.com/kralamoure/d1util
+module github.com/kralamoure/retroutil
 
 go 1.16
 

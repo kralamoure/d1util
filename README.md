@@ -1,6 +1,6 @@
-# d1util
+# retroutil
 
-`d1util` is a library of low-level utilities for Dofus 1, reverse engineered from its client (originally written in
+`retroutil` is a library of low-level utilities for Dofus 1, reverse engineered from its client (originally written in
 ActionScript 2).
 
 ## Requirements
@@ -11,5 +11,5 @@ ActionScript 2).
 ## Installation
 
 ```sh
-go get -u -v github.com/kralamoure/d1util
+go get -u -v github.com/kralamoure/retroutil
 ```
