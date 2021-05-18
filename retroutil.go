@@ -1,4 +1,4 @@
-// Package retroutil is a library of low-level utilities for Dofus 1, reverse engineered from its client (originally written in ActionScript 2).
+// Package retroutil is a library of low-level utilities for Dofus Retro, from the original client.
 package retroutil
 
 import (
